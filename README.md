@@ -1,0 +1,1 @@
+# Get-MSP-Template-Client-Infra-Github-FullStack
